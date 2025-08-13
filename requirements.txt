@@ -7,4 +7,4 @@ pdf2image==1.16.3
 streamlit-drawable-canvas==0.9.3
 pandas==1.5.3
 openpyxl==3.1.2
-protobuf==3.20.3  # Versión compatible con Streamlit Cloud
+protobuf==3.20.3
